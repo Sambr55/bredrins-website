@@ -1,0 +1,130 @@
+{
+  "en": {
+    "hero": {
+      "tagline": "Island Flavour. Fire-grilled food. Good vibes.",
+      "cta": "Join the Family"
+    },
+    "story": {
+      "heading": "Welcome to the Family",
+      "text1": "We're brought together by flavour, friendship, and the energy of island life. Our food is a celebration of where we come from and where we are now. Shaped by sun-soaked cultures and bold spices, it blends the spirit of different islands into something new, made right here in Lisbon. It is not about one place — it is about a feeling. Warmth, rhythm, colour and soul in every bite.",
+      "text2": "Bredrins was built by friends who found each other far from home, bonded over fire, food and music as the grill stayed glowing. What started as sharing meals turned into creating a space where people come together and unwind. Whether you grab a box on your way to the waves or linger by the counter soaking up the energy — you're not just eating, you're part of the family.",
+      "text3": "We bring a flavour that's been missing from the beachfront — wood-smoke, pimento, scotch bonnet. Premium soul food served from a counter window. Not competing, complementing. The soul that completes the map."
+    },
+    "family": {
+      "heading": "The Bredrins Frequency",
+      "subtitle": "Tune into the vibe",
+      "description": "Join the family and be first to know about Sunset Soul Sessions, new menu drops, and where to find us. No spam — just fire, flavour, and good energy.",
+      "emailPlaceholder": "Your email",
+      "buttonText": "Tune In",
+      "successMessage": "You're in the family now \ud83d\udd25",
+      "instagramText": "Or find us on the gram",
+      "instagramHandle": "@bredrinskitchen"
+    },
+    "menu": {
+      "heading": "What\u2019s on the menu?",
+      "note": "More items coming soon. Vegetarian options will be added",
+      "items": [
+        {
+          "name": "The Bam Bam Crispy",
+          "desc": "Brioche bun, Coleslaw, fried chicken, Pickles, jerk sauce"
+        },
+        {
+          "name": "The Stony Hill Burger",
+          "desc": "Brioche bun, coleslaw, grilled jerk chicken, Pickles, jerk sauce"
+        },
+        {
+          "name": "The Creole Crunch Wrap",
+          "desc": "Iceberg, carrot, lime & garlic mayo, fried chicken, jerk sauce"
+        },
+        {
+          "name": "The Roadside Jerk Wrap",
+          "desc": "Iceberg, carrot, lime & garlic mayo, grilled jerk chicken, fried onion, jerk sauce"
+        }
+      ]
+    },
+    "events": {
+      "heading": "We cater for all types of events",
+      "items": [
+        "Festivals, food markets and large public events",
+        "Corporate events and brand activations",
+        "Private parties and exclusive bookings"
+      ],
+      "text": "Our food truck and grill setup allows us to serve high-quality street food quickly and consistently. We cook over fire using our Trailblazer Streetmaster smoker & grill to deliver authentic jerk flavour and smoky grilled food."
+    },
+    "contact": {
+      "heading": "Bookings",
+      "cta": "Contact us to discuss",
+      "trust": "Registered Portuguese business \u00b7 Food safety compliant \u00b7 Public liability insurance",
+      "ptLabel": "PT",
+      "enLabel": "EN"
+    }
+  },
+  "pt": {
+    "hero": {
+      "tagline": "Sabor das Ilhas. Grelhados no fogo. Boas vibes.",
+      "cta": "Junta-te \u00e0 Fam\u00edlia"
+    },
+    "story": {
+      "heading": "Bem-vindo \u00e0 Fam\u00edlia",
+      "text1": "Somos unidos pelo sabor, pela amizade e pela energia da vida das ilhas. A nossa comida \u00e9 uma celebra\u00e7\u00e3o de onde viemos e de onde estamos agora. Moldada por culturas banhadas pelo sol e especiarias ousadas, mistura o esp\u00edrito de diferentes ilhas em algo novo, feito aqui mesmo em Lisboa. N\u00e3o se trata de um lugar \u2014 trata-se de um sentimento. Calor, ritmo, cor e alma em cada dentada.",
+      "text2": "Bredrins foi constru\u00eddo por amigos que se encontraram longe de casa, unidos pelo fogo, comida e m\u00fasica enquanto a grelha continuava acesa. O que come\u00e7ou como partilhar refei\u00e7\u00f5es transformou-se em criar um espa\u00e7o onde as pessoas se juntam e alimentam a sua felicidade. Quer apanhes uma box a caminho das ondas ou fiques ao balc\u00e3o a absorver a energia \u2014 n\u00e3o est\u00e1s s\u00f3 a comer, fazes parte da fam\u00edlia.",
+      "text3": "Trazemos um sabor que faltava na praia \u2014 fumo de lenha, pimento, scotch bonnet. Soul food premium servida ao balc\u00e3o. N\u00e3o competimos, complementamos. A alma que completa o mapa."
+    },
+    "family": {
+      "heading": "A Frequ\u00eancia Bredrins",
+      "subtitle": "Sintoniza a vibe",
+      "description": "Junta-te \u00e0 fam\u00edlia e s\u00ea o primeiro a saber sobre as Sunset Soul Sessions, novos pratos no menu e onde nos encontrar. Sem spam \u2014 s\u00f3 fogo, sabor e boa energia.",
+      "emailPlaceholder": "O teu email",
+      "buttonText": "Sintonizar",
+      "successMessage": "Agora fazes parte da fam\u00edlia \ud83d\udd25",
+      "instagramText": "Ou encontra-nos no insta",
+      "instagramHandle": "@bredrinskitchen"
+    },
+    "menu": {
+      "heading": "O que est\u00e1 no menu?",
+      "note": "Mais itens em breve. Op\u00e7\u00f5es vegetarianas ser\u00e3o adicionadas",
+      "items": [
+        {
+          "name": "The Bam Bam Crispy",
+          "desc": "P\u00e3o brioche, coleslaw, frango frito, pickles, molho jerk"
+        },
+        {
+          "name": "The Stony Hill Burger",
+          "desc": "P\u00e3o brioche, coleslaw, frango jerk grelhado, pickles, molho jerk"
+        },
+        {
+          "name": "The Creole Crunch Wrap",
+          "desc": "Alface iceberg, cenoura, maionese de lima e alho, frango frito, molho jerk"
+        },
+        {
+          "name": "The Roadside Jerk Wrap",
+          "desc": "Alface iceberg, cenoura, maionese de lima e alho, frango jerk grelhado, cebola frita, molho jerk"
+        }
+      ]
+    },
+    "events": {
+      "heading": "Fazemos catering para todo o tipo de eventos",
+      "items": [
+        "Festivais, mercados de comida e grandes eventos p\u00fablicos",
+        "Eventos corporativos e ativa\u00e7\u00f5es de marca",
+        "Festas privadas e reservas exclusivas"
+      ],
+      "text": "O nosso food truck e configura\u00e7\u00e3o de grelha permite-nos servir comida de rua de alta qualidade de forma r\u00e1pida e consistente. Cozinhamos sobre fogo usando o nosso fumeiro e grelha Trailblazer Streetmaster para entregar sabor jerk aut\u00eantico e comida grelhada com fumo."
+    },
+    "contact": {
+      "heading": "Reservas",
+      "cta": "Contacte-nos para discutir",
+      "trust": "Empresa portuguesa registada \u00b7 Conformidade de seguran\u00e7a alimentar \u00b7 Seguro de responsabilidade p\u00fablica",
+      "ptLabel": "PT",
+      "enLabel": "EN"
+    }
+  },
+  "images": {
+    "foodCarousel": [
+      { "src": "/images/food/bam-bam-crispy.jpg", "alt": "The Bam Bam Crispy" },
+      { "src": "/images/food/stony-hill-burger.jpg", "alt": "The Stony Hill Burger" },
+      { "src": "/images/food/creole-crunch-wrap.jpg", "alt": "The Creole Crunch Wrap" },
+      { "src": "/images/food/roadside-jerk-wrap.jpg", "alt": "The Roadside Jerk Wrap" }
+    ]
+  }
+}
