@@ -60,9 +60,15 @@ function Hero() {
         className="relative z-10 w-52 sm:w-64 md:w-80 mb-8 drop-shadow-2xl"
       />
 
-      <p className="relative z-10 text-[#FBEBC3] text-xl sm:text-2xl md:text-3xl font-heading tracking-wide max-w-2xl leading-relaxed">
-        {t.hero.tagline}
-      </p>
+      <div className="relative z-10 text-[#FBEBC3] text-xl sm:text-2xl md:text-3xl font-heading tracking-wide leading-relaxed text-center">
+        {t.hero.tagline
+          .split(".")
+          .map((s) => s.trim())
+          .filter(Boolean)
+          .map((line, i) => (
+            <div key={i} className="whitespace-nowrap">{line}.</div>
+          ))}
+      </div>
 
       <a
         href="#contact"
